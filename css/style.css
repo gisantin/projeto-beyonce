@@ -1,0 +1,44 @@
+
+/*GERAL */
+body{
+    text-align: center;
+    background-image: url(../img/rec.png);
+    font-family: 'Lato', Arial, Helvetica, sans-serif;
+}
+
+
+
+/* FONT */
+h1{
+    
+    font-weight: bold;
+    text-align: center;
+    font-size: 30px;
+    color: #5D1277;
+}
+
+h2{
+    
+    font-size: 20px;
+    text-align:center;
+    color: #4f4f4f;
+
+}
+
+.pics img{
+    width: 50px;
+    margin: 10px;
+    
+    
+}
+.total{
+    background-color: white;
+    width: 30%;
+    margin: 50px auto 0 auto;
+    text-align: center;
+    padding: 50px 0;
+    border-radius: 10px;
+    box-shadow: 0px 0px 15px rgba(0,0,0,4);
+    
+}
+
